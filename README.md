@@ -12,7 +12,7 @@ Install the necessary packages can be done in a REPL session. Cf. https://docs.j
 ### Data
 The data is available in the Data folder.
 
-There are two CSV fiels which contain the summary statistics from GSK. One for CD4+ T cells and another for the antibody concentrations.
+There are two CSV files which contain the summary statistics from GSK. One for CD4+ T cells and another for the antibody concentrations.
 
 ### Instructions for use
 Download the data

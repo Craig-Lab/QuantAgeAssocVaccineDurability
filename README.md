@@ -10,8 +10,9 @@ Installation guide for Julia is available at https://docs.julialang.org/en/v1/ma
 Install the necessary packages can be done in a REPL session. Cf. https://docs.julialang.org/en/v1.7-dev/stdlib/Pkg/
 
 ### Data
-The data is available in the Data folder
-	There are two CSV fiels which contain the summary statistics from GSK. One for CD4+ T cells and another for the antibody concentrations.
+The data is available in the Data folder.
+
+There are two CSV fiels which contain the summary statistics from GSK. One for CD4+ T cells and another for the antibody concentrations.
 
 ### Instructions for use
 Download the data

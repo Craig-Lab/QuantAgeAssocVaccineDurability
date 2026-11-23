@@ -9,6 +9,10 @@ All of the code was written and tested using the Julia programming language. The
 Installation guide for Julia is available at https://docs.julialang.org/en/v1/manual/installation/ 
 Install the necessary packages can be done in a REPL session. Cf. https://docs.julialang.org/en/v1.7-dev/stdlib/Pkg/
 
+### Data
+The data is available in the Data folder
+	There are two CSV fiels which contain the summary statistics from GSK. One for CD4+ T cells and another for the antibody concentrations.
+
 ### Demo and instructions for use
 Each folder contains the code necessary to reproduce all the figures. Each folder can be run independently of the other.  
 In the code, it is worth mentioning that we refer to D7 as the T cell differentiation stage and D14 as the T cell maturation stage, as per Michaels et al., 2021 (10.1126/sciadv.abn5522). 

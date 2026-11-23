@@ -15,10 +15,11 @@ The data is available in the Data folder
 
 ### Instructions for use
 Download the data
-After installing Julia and the necssary packages all code can be ran in a REPL session
+After installing Julia and the necssary packages all code can be ran in a REPL session or VSCODE
 For the code related to CD4+ T cells
 Paste the correct data CSV path into VPOP and run
 Afterwards run Immunity_Advantage_plot.jl to get the plot for the Immunity Advanatage
 Running then CD4_traj_plot.jl will give allow for a sampling of the CD4+ T cell trajectories for the virtual patients
 Finally additional_booster.jl is the simulated second booster for the oldest virtual population
 
+Follow the same workflow for CODE_AB
